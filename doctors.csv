@@ -1,0 +1,26 @@
+doctor_id,doctor_name,specialty
+D001,Dr_01,Cardiology
+D002,Dr_02,Cardiology
+D003,Dr_03,Orthopedics
+D004,Dr_04,Pulmonology
+D005,Dr_05,Internal Medicine
+D006,Dr_06,ENT
+D007,Dr_07,Internal Medicine
+D008,Dr_08,Neurology
+D009,Dr_09,Pediatrics
+D010,Dr_10,Cardiology
+D011,Dr_11,ENT
+D012,Dr_12,Neurology
+D013,Dr_13,Pediatrics
+D014,Dr_14,General Surgery
+D015,Dr_15,Dermatology
+D016,Dr_16,Internal Medicine
+D017,Dr_17,Dermatology
+D018,Dr_18,ENT
+D019,Dr_19,Orthopedics
+D020,Dr_20,Oncology
+D021,Dr_21,Pulmonology
+D022,Dr_22,Dermatology
+D023,Dr_23,Internal Medicine
+D024,Dr_24,Neurology
+D025,Dr_25,Orthopedics
