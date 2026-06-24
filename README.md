@@ -27,16 +27,11 @@ Treatments
 
 Relationship:
 
-Patients
-   ↓
-Admissions
-   ↑
-Doctors
+Patients > Admissions < Doctors
 
-Admissions
-   ↓
-Treatments
-Dashboard
+Admissions > Treatments
+
+DASHBOARD
 
 <img width="595" height="445" alt="WhatsApp Image 2026-06-25 at 02 43 08" src="https://github.com/user-attachments/assets/c325f6d2-fa04-483c-a0c1-41403213268f" />
 
